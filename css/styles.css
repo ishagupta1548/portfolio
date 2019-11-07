@@ -15,11 +15,12 @@ h2{
 p{
   text-align: center;
   font-family: 'Slabo 27px', serif;
-  font-size: 50px;
+  font-size: 30px;
+  color: #f88020;
 }
 
 .head{
-  background-color: #fffdf9;
+  background-color: #fff4e4;
   padding: 200px;
   height: 300px;
 }
@@ -29,7 +30,7 @@ p{
 }
 
 .intro{
-  background-color: #f8f8f8;
+  background-color: #3d0e1e;
   padding: 100px;
   margin: 0;
  height: 500px;
@@ -37,12 +38,12 @@ p{
 .sub-head{
   margin: 0;
   text-align: center;
-  color: #2b2b28;
+  color: #f88020;
   font-family: 'Slabo 27px', serif;
   font-size: 70px;
 }
 .skill{
-  background-color: #e3b04b;
+  background-color: #fff4e4;
   padding: 100px;
   margin: 0;
  height: 300px;
@@ -52,30 +53,31 @@ p{
   height: 100px;
   width: 100px;
 }
+.exp{
+  background-color: #3d0e1e;
+}
 #main-head{
   margin: 0;
   text-align: center;
-  color: #9be3de;
+  color: #f88020;
   font-family: 'Parisienne', cursive;
   font-size: 100px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 #sub-head{
   text-align: center;
-  color: #9be3de;
+  color: #f88020;
   font-size: 80px;
   font-family: 'Slabo 27px', serif;
   margin: 0;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
+#head{
+  margin: 0;
+  text-align: center;
+  color: #f88020;
+  font-family: 'Slabo 27px', serif;
+  font-size: 80px;
 
-#main-img{
-  border-radius: 50%;
-  height: 200px;
-  width: 200px;
-  margin: auto;
-  position: absolute;
-  bottom: auto;
-  left: 43%;
 }
