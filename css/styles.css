@@ -80,10 +80,10 @@ p{
 .text{
    text-align: center;
 }
-.resume-link{
+.resume-link:hover{
   text-align: center;
+  background-color: orange;
 }
-
 .contact{
 
   background-color: #3c3939;
@@ -99,8 +99,8 @@ p{
   margin-left: 150px;
   margin-right: 100px;
 }
-.a:hover{
-  background-color: black;
+.btn:hover{
+  background-color: orange;
 }
 #main-head{
   margin: 0;
